@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/theExperienced/MovieGuide.git/static/css/main.c3ad657e.chunk.css",
+    "main.js": "/theExperienced/MovieGuide.git/static/js/main.563b89e3.chunk.js",
+    "main.js.map": "/theExperienced/MovieGuide.git/static/js/main.563b89e3.chunk.js.map",
+    "runtime-main.js": "/theExperienced/MovieGuide.git/static/js/runtime-main.91276ce0.js",
+    "runtime-main.js.map": "/theExperienced/MovieGuide.git/static/js/runtime-main.91276ce0.js.map",
+    "static/js/2.8b18b1ab.chunk.js": "/theExperienced/MovieGuide.git/static/js/2.8b18b1ab.chunk.js",
+    "static/js/2.8b18b1ab.chunk.js.map": "/theExperienced/MovieGuide.git/static/js/2.8b18b1ab.chunk.js.map",
+    "index.html": "/theExperienced/MovieGuide.git/index.html",
+    "precache-manifest.67ba6661c20d0ff2e12ba4d1639b0379.js": "/theExperienced/MovieGuide.git/precache-manifest.67ba6661c20d0ff2e12ba4d1639b0379.js",
+    "service-worker.js": "/theExperienced/MovieGuide.git/service-worker.js",
+    "static/css/main.c3ad657e.chunk.css.map": "/theExperienced/MovieGuide.git/static/css/main.c3ad657e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91276ce0.js",
+    "static/js/2.8b18b1ab.chunk.js",
+    "static/css/main.c3ad657e.chunk.css",
+    "static/js/main.563b89e3.chunk.js"
+  ]
+}
